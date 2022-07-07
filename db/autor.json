@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "62c4bffd7106f5d38aed8ed3"
+  },
+  "id": "iliana@carpetres.cl",
+  "nombre": "Iliana",
+  "apellido": "Paris",
+  "edad": 29,
+  "avatar": "https://josefacchin.com/wp-content/uploads/2017/12/como-reducir-tamao-imagenes.png",
+  "alias": "IlianaC3"
+},{
+  "_id": {
+    "$oid": "62c4bffd7106f5d38aed8ed4"
+  },
+  "id": "ilianagparis@gmail.com",
+  "nombre": "Iliana",
+  "apellido": "Paris",
+  "edad": 29,
+  "avatar": "https://josefacchin.com/wp-content/uploads/2017/12/como-reducir-tamao-imagenes.png",
+  "alias": "IGab"
+}]

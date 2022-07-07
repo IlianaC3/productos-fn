@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "62c4c05f7106f5d38aed8ed7"
+  },
+  "text": "Hola",
+  "autor": {
+    "id": "iliana@carpetres.cl",
+    "nombre": "Iliana",
+    "apellido": "Paris",
+    "edad": 29,
+    "avatar": "https://josefacchin.com/wp-content/uploads/2017/12/como-reducir-tamao-imagenes.png",
+    "alias": "IlianaC3"
+  }
+},{
+  "_id": {
+    "$oid": "62c4c05f7106f5d38aed8ed8"
+  },
+  "text": "Hola 2",
+  "autor": {
+    "id": "iliana@carpetres.cl",
+    "nombre": "Iliana",
+    "apellido": "Paris",
+    "edad": 29,
+    "avatar": "https://josefacchin.com/wp-content/uploads/2017/12/como-reducir-tamao-imagenes.png",
+    "alias": "IlianaC3"
+  }
+},{
+  "_id": {
+    "$oid": "62c63e9735dfc0993d86d288"
+  },
+  "text": "Hola prueba",
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1657159319739"
+    }
+  },
+  "autor": {
+    "id": "ilianagparis@gmail.com",
+    "nombre": "Iliana Gabriela",
+    "apellido": "Acuña",
+    "edad": "23",
+    "avatar": "https://cdn.pixabay.com/photo/2015/05/31/10/51/acer-791027_1280.jpg",
+    "alias": "IGaby007"
+  },
+  "__v": 0
+}]
